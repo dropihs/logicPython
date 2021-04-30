@@ -1,13 +1,12 @@
-# logicPython
-Resolução de alguns dos exercicios do site Python Brasil 
+# logicPython 
+Resolução de alguns exercicios de logica de programação em Python do site Python Brasil 
 
-Exercicios resolvidos pela IDE Pycharm
-
-lista disponivel em:  http://wiki.python.org.br/ListaDeExercicios
+lista de exercicios disponivel em:  http://wiki.python.org.br/ListaDeExercicios
 
 
-1) EstruturaSequencial [Completo]
+1) Estrutura Sequencial [Completo]
 
-2) EstruturaDeDecisao [Incompleto 12/28(resolvidos)]
+2) Estrutura De Decisao [Incompleto 13/28(resolvidos)]
+
 
 --Em progresso--
