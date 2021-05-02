@@ -34,8 +34,11 @@ else:
 if result > 0:
     print(result,"é um numero postivo")
 elif result <= -1: 
-    print(result,"é um numero negativo")
+    print(result,"é um numero negativo") #Falta a parte de verificar se é decimal amanha eu vejo
 
-
+if(result // 1 == result): 
+    print('\nNúmero inteiro !')
+else:
+    print('\nNúmero Decimal !')
 
     
