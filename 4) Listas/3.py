@@ -1,5 +1,11 @@
 #Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
 
-notas = [ int(input("Informe a nota "+ str(i) ) ) for i in range(4) ]
-print("Nota", notas)
-print("Media", sum(notas)/4) 
+notas = [] # precisa definir antes que é um vetor 
+
+
+for i in range(0, 4):
+
+   notas.append(float(input("Informe a nota do aluno: "))) #E necessario usar o Append - nota[i] não funciona
+
+
+print(f"A média desse aluno é {sum(notas)/len(notas)}.")
