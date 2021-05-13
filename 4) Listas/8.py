@@ -4,9 +4,11 @@
 arrayAltura = []
 arrayIdade = []
 
-for i in range(0,5): 
+for i in range(0,2): 
     arrayIdade.append(int(input("Digite a idade da pessoa: ", )))
     arrayAltura.append(float(input("Digite a Altura da pessoa: ", )))
 
-print(reversed(arrayIdade))
-print(reversed(arrayAltura))
+arrayAltura.reverse()
+arrayIdade.reverse()
+print(arrayAltura)
+print(arrayIdade)
