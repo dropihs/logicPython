@@ -14,3 +14,5 @@ for i in range (0, len(mediaAluno)):
         print("Aluno {}: {} Aprovado".format(i+1, mediaAluno[i]))
     else:
         print("Aluno {}: {} Reprovado".format(i+1, mediaAluno[i]))
+
+#Demorei mas consegui fazer(eu acho)

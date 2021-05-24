@@ -2,7 +2,7 @@
 #elementos do vetor.
 
 arrayA = []
-for i in range(0,2):
+for i in range(0,10):
     arrayA.append(float(input("Digite um numero")))
 
 print(sum(arrayA)**2)

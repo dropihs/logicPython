@@ -7,4 +7,4 @@ for i in range(0,5):
 print(num)
 print("Soma: ",sum(num))
 result = np.prod(num)
-print("Multiplicação: ", result)
+print("Multiplicação: ", result) #trapaceei usando numpy? depois faço do modo bruto 

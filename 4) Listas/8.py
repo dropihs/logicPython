@@ -4,7 +4,7 @@
 arrayAltura = []
 arrayIdade = []
 
-for i in range(0,2): 
+for i in range(0,5): 
     arrayIdade.append(int(input("Digite a idade da pessoa: ", )))
     arrayAltura.append(float(input("Digite a Altura da pessoa: ", )))
 
